@@ -1,1 +1,1 @@
-# Proyecto-An-lisis-estad-stico-para-detectar-patrones-y-outliers
+
